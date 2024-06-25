@@ -6,7 +6,7 @@
 
 ## About Me
 
-I'm Eric, an Electrical Engineering student at California State Polytechnic University, Pomona, aspiring to become a software engineer. I have a diverse skill set ranging from embedded systems to web development, and I'm passionate about learning and building innovative solutions. My goal is to innovate and contribute to impactful projects.
+Hi, I'm Eric! I'm an Electrical Engineering student at California State Polytechnic University, Pomona, aspiring to become a software engineer. I have a diverse skill set ranging from embedded systems to web development, and I'm passionate about learning and building innovative solutions. My goal is to innovate and contribute to impactful projects.
 
 ## Projects
 

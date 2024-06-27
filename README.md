@@ -11,13 +11,13 @@ Hi, I'm Eric! I'm an Electrical Engineering student at California State Polytech
 ## Projects
 
 ### Current Projects
-- **Family Cash Card Application**: A modern solution for parents to manage allowance funds for their kids using Java and Spring Boot.
+- **[Family Cash Card Application](https://github.com/derosaseric/cash-card)**: A modern solution for parents to manage allowance funds for their kids using Java and Spring Boot.
 - **[Runnerz](https://github.com/derosaseric/runnerz)**: A fitness web application to track your runs using Java and Spring Boot.
 
 ### Notable Projects
 - **Four-Stage Amplifier Design**: Developed a four-stage amplifier with a gain of -253 and a bandwidth from 14 Hz to 500 kHz using PSpice.
-- **Snake Game on SoC FPGA Platform**: Designed and developed a snake game demonstrating proficiency in hardware-software co-design using System Verilog and C++.
-- **Traffic Light Controller**: Engineered a real-time traffic light controller embedded system using PIC18F4620 microcontroller.
+- **[Snake Game on SoC FPGA Platform](https://github.com/derosaseric/snake-game)**: Designed and developed a snake game demonstrating proficiency in hardware-software co-design using System Verilog and C++.
+- **[Traffic Light Controller](https://github.com/derosaseric/traffic-light-controller)**: Engineered a real-time traffic light controller embedded system using PIC18F4620 microcontroller.
 
 ## Skills and Technologies
 
@@ -43,7 +43,7 @@ Major electives focused on software and embedded systems.
 
 ## Interests and Hobbies
 
-I enjoy experimenting with microcontrollers, learning about financial literacy, reading, and working out. My next goal is to build a garden and water gathering system for self-reliance.
+I enjoy experimenting with microcontrollers, learning about financial literacy, reading, and working out. My next life goal is to build a vegetable and fruit garden with a water gathering and filtering system for self-sustainability.
 
 ---
 
